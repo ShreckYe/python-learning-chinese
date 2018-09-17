@@ -1,2 +1,2 @@
 # Python-learning-Chinese
-Python学习（中文）
+Python学习资料（中文）
