@@ -2,7 +2,7 @@
 本文件会简短介绍一些Python的常用的第三方库，并介绍它们的相关领域与学习路线，这些库按重要和常用程度排序。本文件实时更新并保持置顶。
 
 ## 核心
-这三个库NumPy、pandas、Matplotlib是Python数据处理的核心库，几乎所有与数据有关的Python程序都会用到他们，其中NumPy用于数据的内存存储与处理，pandas用于数据的文件读写，Matplotlib用于数据的可视化。
+这三个库NumPy、pandas、Matplotlib是Python数据处理的核心库，几乎所有与数据有关的Python程序都会用到它们，其中NumPy用于数据的内存存储与处理，pandas用于数据的文件读写，Matplotlib用于数据的可视化。
 
 ### NumPy
 
@@ -38,6 +38,7 @@ Matplotlib是一个可以绘制高质量（publication quality）图像的库。
 
 ### SymPy
 符号（纯代数）计算库，其目标为称为一个全功能计算机代数系统（CAS）。
+
 官网：https://www.sympy.org/  
 相关功能：（与理论数学相关的领域）集合论、微积分、ODE、PDE、几何等
 
@@ -49,3 +50,9 @@ Python机器学习入门工具。
 
 官网：http://scikit-learn.org/  
 功能：分类、回归、聚类、神经网络等
+
+# TensorFlow
+Google开发的机器学习框架，是现今机器学习学术界与工业界最重要的工具之一。
+
+官网：https://www.tensorflow.org/  
+功能：机器学习、GPU训练、分布式机器学习、企业级机器学习框架
