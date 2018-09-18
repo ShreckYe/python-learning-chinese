@@ -49,10 +49,10 @@ Matplotlib是一个可以绘制高质量（publication quality）图像的库。
 Python机器学习入门工具。
 
 官网：http://scikit-learn.org/  
-功能：分类、回归、聚类、神经网络等
+相关功能：分类、回归、聚类、神经网络等
 
 # TensorFlow
 Google开发的机器学习框架，是现今机器学习学术界与工业界最重要的工具之一。
 
 官网：https://www.tensorflow.org/  
-功能：机器学习、GPU训练、分布式机器学习、企业级机器学习框架
+相关功能：机器学习、GPU训练、分布式机器学习、企业级机器学习框架
