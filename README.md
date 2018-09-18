@@ -35,6 +35,7 @@ from module-name import *
 ```
 ### [Python常用库简介](libraries.md)
 ### 编程练习
-“纸上得来终觉浅，绝知此事要躬行。”编程练习是学习一门编程语言最重要的一个环节。  
-在这里向大家推荐一个编程练习网站LeetCode：https://leetcode.com/
+“纸上得来终觉浅，绝知此事要躬行。”编程练习是学习一门编程语言最重要的一个环节。
+
+在这里向大家推荐一个编程练习网站LeetCode：https://leetcode.com/  
 注册账号并登陆后，在“Problems”一栏中便可看到此网站提供的所有问题，打开其中一个，在语言栏中选择“Python”，填写代码，点击“Submit Solution”即可提交，系统会自动检查你的代码是否正确。
