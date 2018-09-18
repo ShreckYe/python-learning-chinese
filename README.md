@@ -56,5 +56,6 @@ SoleLearn有一个Python入门教程[Python 3 Tutorial](https://www.sololearn.co
 ### 编程练习
 “纸上得来终觉浅，绝知此事要躬行。”编程练习是学习一门编程语言最重要的一个环节。
 
-在这里向大家推荐一个编程练习网站[LeetCode](https://leetcode.com/)。  
+#### [LeetCode](https://leetcode.com/)
+在这里向大家推荐一个编程练习网站LeetCode。  
 注册账号并登陆后，在“Problems”一栏中便可看到此网站提供的所有问题，打开其中一个，在语言栏中选择“Python”，填写代码，点击“Submit Solution”即可提交，系统会自动检查你的代码是否正确。在正确完成大概10道题之后，你就能基本熟练掌握编程的基本操作。
