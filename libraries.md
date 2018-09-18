@@ -11,7 +11,7 @@ NumPy是一个基本的在Python中进行科学计算的库，底层由C语言�
 
 官网：http://www.numpy.org/
 
-相关功能：线性代数、向量矩阵操作、简单数理统计等
+相关功能：线性代数、向量矩阵运算、简单数理统计等
 
 ### pandas
 
@@ -35,7 +35,7 @@ Matplotlib是一个可以绘制高质量（publication quality）图像的库。
 见上文。
 
 ### SciPy
-数学、科学、工程计算库，是NumPy功能的延申。
+数学、科学、工程计算库，是NumPy功能的延申。<br>
 官网：https://www.scipy.org/scipylib/index.html
 相关功能：特殊函数、（数值）积分、优化、傅里叶变换、统计等
 
