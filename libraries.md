@@ -41,7 +41,8 @@ Matplotlib是一个可以绘制高质量（publication quality）图像的库。
 
 ### mpmath
 任意精度浮点数计算库，是很多其他数学计算库的基础。
-官网：http://www.mpmath.org. 
+
+官网：http://www.mpmath.org  
 相关功能：高精度浮点数计算、相应的各种常用函数
 
 ### SymPy
