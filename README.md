@@ -1,7 +1,7 @@
 # python-learning-chinese
 中文Python学习指南
 
-*2018年9月18日更新*
+*2018年9月22日更新*
 
 大家好，本文是一个中文的Python学习向导，力图尽可能简洁地介绍Python学习从入门到进阶的各方面。
 
@@ -31,19 +31,32 @@ IDE全称Integrated Develpment Envrionment即集成开发环境，是一类集�
 ## 库（library）、包（package）、模块（module）
 Python的各种优秀的第三方包是Python编程简洁高效的重要原因之一，学会灵活地调包😜对于成为一个熟练的Python使用者至关重要。
 ### 基本格式
+下文以numpy和numpy.array为例，列出了一些与导入包有关的基本代码。  
 导入一个模块
 ```python
-import module-name
+import numpy
+```
+导入一个模块并重命名
+```python
+import numpy as np
 ```
 导入一个模块的一个变量或函数
 ```python
-from module-name import variable-name-or-function-name
+from numpy import array
 ```
 导入一个模块的所有变量和函数
 ```python
-from module-name import *
+from numpy import *
 ```
 ### [Python常用库简介](libraries.md)
+## 实用技巧
+### help函数
+使用help函数可以调出模块、类、函数、变量的说明文档，如
+```
+import numpy as np
+
+help(np.array)
+```
 ## 学习方法
 ### 教程
 #### [SoloLearn](https://www.sololearn.com/)
