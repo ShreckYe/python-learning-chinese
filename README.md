@@ -16,9 +16,9 @@ Pip是Python自带的包管理软件。确保Python安装时已被添加到系�
 pip ...
 ```
 即可调用pip的各项功能。
-安装代码包的基本格式为
+以numpy为例，安装代码包的基本格式为
 ```shell
-pip install package-name
+pip install numpy
 ```
 然后等待下载并安装完毕即可。
 ## 工具
