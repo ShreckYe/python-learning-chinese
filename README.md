@@ -52,11 +52,12 @@ from numpy import *
 ## 实用技巧
 ### help函数
 使用help函数可以调出模块、类、函数、变量的说明文档，如
-```
+```python
 import numpy as np
 
 help(np.array)
 ```
+即可调出numpy模块中array（数组）的说明文档。
 ## 学习方法
 ### 教程
 #### [SoloLearn](https://www.sololearn.com/)
