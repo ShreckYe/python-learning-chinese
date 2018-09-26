@@ -65,7 +65,10 @@ help(np.array)
 ### 教程
 #### [SoloLearn](https://www.sololearn.com/)
 SoloLearn是一个在线学习编程的APP，有Android客户端、iOS客户端和网页版。  
-SoleLearn有一个Python入门教程[Python 3 Tutorial](https://www.sololearn.com/Course/Python/)，同时也可以在APP客户端中找到。
+  
+SoloLearn有一个Python入门教程。以及一个关于Python常用的包NumPy的教程。你可以使用网页版：[Python 3 Tutorial](https://www.sololearn.com/Course/Python/)。还可以在手机APP上，点击主页最左边的博士帽，查看所有可以学习的话题，包括Python 3和Python NumPy。  
+  
+SoloLearn还有一个Code Playground，无需安装任何环境，你就可以在线写一些简单的程序。你可以利用碎片时间在这里练习。  
 
 #### JetBrains [Python Edu](https://www.jetbrains.com/education/?fromMenu#lang=python&role=learner)
 这是JetBrains开发的一个专门用于Python学习的软件插件，需要与上文提到的PyCharm配合使用。若已安装PyCharm，[安装EduTools Plugin](https://www.jetbrains.com/help/education/install-edutools-plugin.html?section=PyCharm)即可。
