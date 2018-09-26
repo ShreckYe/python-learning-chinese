@@ -11,7 +11,7 @@
 提示：在安装时勾选“Add to PATH”，可自动完成其中的设置环境变量步骤。
 
 ### [Anaconda](https://www.anaconda.com/)
-Anaconda是一个自动包含了很多常用库与很多拓展功能的官方Python替代品。
+Anaconda是一个自动包含了很多常用库、支持多版本Python安装、包含很多拓展功能的官方Python替代品。
 
 ## 工具
 ### IDE
