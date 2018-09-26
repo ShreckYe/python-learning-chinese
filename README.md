@@ -1,7 +1,7 @@
 # python-learning-chinese
 中文Python学习指南
 
-*2018年9月22日更新*
+*2018年9月26日更新*
 
 大家好，本文是一个中文的Python学习向导，力图尽可能简洁地介绍Python学习从入门到进阶的各方面。
 
@@ -29,7 +29,7 @@ IDE全称Integrated Develpment Envrionment即集成开发环境，是一类集�
 本文推荐的Python IDE为JetBrains公司的PyCharm，这一IDE的优点在于它强大的代码补全、格式标准化、代码结构分析等功能。
 #### 其他推荐IDE
 [Sublime Text](https://www.sublimetext.com/)：轻巧通用的可拓展编辑器。  
-[Jupyter Notebook](http://jupyter.org/)：置于浏览器中的轻量级编辑器，可编写LaTeX公司。
+[Jupyter Notebook](http://jupyter.org/)：置于浏览器中的轻量级编辑器，可编写LaTeX公式。
 
 ## 库（library）、包（package）、模块（module）
 Python的各种优秀的第三方包是Python编程简洁高效的重要原因之一，学会灵活地调包😜对于成为一个熟练的Python使用者至关重要。
