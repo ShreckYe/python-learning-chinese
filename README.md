@@ -1,7 +1,7 @@
 # python-learning-chinese
 中文Python学习指南
 
-*2018年9月26日更新*
+*2018年10月30日更新*
 
 大家好，本文是一个中文的Python学习向导，力图尽可能简洁地介绍Python学习从入门到进阶的各方面。
 
@@ -72,10 +72,16 @@ SoloLearn是一个在线学习编程的APP，有Android客户端、iOS客户端�
   
 SoloLearn有一个Python入门教程。以及一个关于Python常用的包NumPy的教程。你可以使用网页版：[Python 3 Tutorial](https://www.sololearn.com/Course/Python/)。还可以在手机APP上，点击主页最左边的博士帽，查看所有可以学习的话题，包括Python 3和Python NumPy。  
   
-SoloLearn还有一个Code Playground，无需安装任何环境，你就可以在线写一些简单的程序。你可以利用碎片时间在这里练习。  
+SoloLearn还有一个Code Playground，无需安装任何环境，你就可以在线写一些简单的程序。你可以利用碎片时间在这里练习。
+
+#### Coursera [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
+这是Coursera网站首页推荐的一个Python编程课程集合，包含五个课程，分别涉及编程基础、数据结构、Web数据访问、数据库、数据处理与可视化。你可以注册一个Coursera账号免费观看这些课程，同时也可以在上完课程后付费获取Coursera官方证书。
 
 #### JetBrains [Python Edu](https://www.jetbrains.com/education/?fromMenu#lang=python&role=learner)
 这是JetBrains开发的一个专门用于Python学习的软件插件，需要与上文提到的PyCharm配合使用。若已安装PyCharm，[安装EduTools Plugin](https://www.jetbrains.com/help/education/install-edutools-plugin.html?section=PyCharm)即可。
+
+#### 其他视频
+[[小甲鱼]零基础入门学习Python](https://www.bilibili.com/video/av4050443)是Bilibili上观看次数最多的一个Python教程系列视频。
 
 ### 编程练习
 “纸上得来终觉浅，绝知此事要躬行。”编程练习是学习一门编程语言最重要的一个环节。
