@@ -75,7 +75,7 @@ SoloLearn有一个Python入门教程。以及一个关于Python常用的包NumPy
 SoloLearn还有一个Code Playground，无需安装任何环境，你就可以在线写一些简单的程序。你可以利用碎片时间在这里练习。
 
 #### Coursera [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
-这是Coursera网站首页推荐的一个Python编程课程集合，包含五个课程，分别涉及编程基础、数据结构、Web数据访问、数据库、数据处理与可视化。你可以注册一个Coursera账号免费观看这些课程，同时也可以在上完课程后付费获取Coursera官方证书。
+这是Coursera网站首页推荐的一个Python编程课程集合，由美国密西根大学（University of Michigan）提供，包含五个课程，分别涉及编程基础、数据结构、Web数据访问、数据库、数据处理与可视化。你可以注册一个Coursera账号免费观看这些课程，同时也可以在上完课程后付费获取Coursera官方证书。
 
 #### JetBrains [Python Edu](https://www.jetbrains.com/education/?fromMenu#lang=python&role=learner)
 这是JetBrains开发的一个专门用于Python学习的软件插件，需要与上文提到的PyCharm配合使用。若已安装PyCharm，[安装EduTools Plugin](https://www.jetbrains.com/help/education/install-edutools-plugin.html?section=PyCharm)即可。
