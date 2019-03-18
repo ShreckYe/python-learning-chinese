@@ -74,8 +74,11 @@ SoloLearn有一个Python入门教程。以及一个关于Python常用的包NumPy
   
 SoloLearn还有一个Code Playground，无需安装任何环境，你就可以在线写一些简单的程序。你可以利用碎片时间在这里练习。
 
+![SoloLearn Python 3 Tutorial](SoloLearn%20Python%203%20Tutorial.png)
+
 #### [Python 基础教程 | 菜鸟教程](http://www.runoob.com/python/python-tutorial.html)
 菜鸟教程是国内一个较好的编程基础入门教程网站，其Python教程分为Python基础教程和Python高级教程。其中Python基础教程内容较为完善适合初学者学习，也适合作为忘记特定功能写法时的参考；Python高级教程不需要专门学习，建议在需要使用到相关功能时结合实践学习。
+
 #### Coursera [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 这是Coursera网站首页推荐的一个Python编程课程集合，由美国密西根大学（University of Michigan）提供，包含五个课程，分别涉及编程基础、数据结构、Web数据访问、数据库、数据处理与可视化。你可以注册一个Coursera账号免费观看这些课程，同时也可以在上完课程后付费获取Coursera官方证书。
 
