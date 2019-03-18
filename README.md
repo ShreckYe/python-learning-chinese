@@ -70,11 +70,11 @@ help(np.array)
 #### [SoloLearn](https://www.sololearn.com/)
 SoloLearn是一个在线学习编程的APP，有Android客户端、iOS客户端和网页版。  
   
-SoloLearn有一个Python入门教程。以及一个关于Python常用的包NumPy的教程。你可以使用网页版：[Python 3 Tutorial](https://www.sololearn.com/Course/Python/)。还可以在手机APP上，点击主页最左边的博士帽，查看所有可以学习的话题，包括Python 3和Python NumPy。  
-  
-SoloLearn还有一个Code Playground，无需安装任何环境，你就可以在线写一些简单的程序。你可以利用碎片时间在这里练习。
+SoloLearn有一个Python入门教程，以及一个关于Python常用的包NumPy的教程。使用网页版：[Python 3 Tutorial](https://www.sololearn.com/Course/Python/)。还可以在手机APP上，点击主页最左边的博士帽，查看所有可以学习的话题，包括Python 3和Python NumPy。
 
 ![SoloLearn Python 3 Tutorial](SoloLearn%20Python%203%20Tutorial.png)
+  
+SoloLearn还有一个Code Playground，无需安装任何环境，你就可以在线写一些简单的程序。你可以利用碎片时间在这里练习。
 
 #### [Python 基础教程 | 菜鸟教程](http://www.runoob.com/python/python-tutorial.html)
 菜鸟教程是国内一个较好的编程基础入门教程网站，其Python教程分为Python基础教程和Python高级教程。其中Python基础教程内容较为完善适合初学者学习，也适合作为忘记特定功能写法时的参考；Python高级教程不需要专门学习，建议在需要使用到相关功能时结合实践学习。
