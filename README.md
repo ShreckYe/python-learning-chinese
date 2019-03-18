@@ -1,5 +1,4 @@
-# python-learning-chinese
-中文Python学习指南
+# 中文Python学习指南
 
 *2019年3月18日更新*
 
