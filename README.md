@@ -20,7 +20,7 @@ IDE全称Integrated Develpment Envrionment即集成开发环境，是一类集�
 本文推荐的Python IDE为JetBrains公司的PyCharm，这一IDE的优点在于它强大的代码补全、格式标准化、代码结构分析等功能。
 #### 其他推荐IDE
 [Sublime Text](https://www.sublimetext.com/)：轻巧通用的可拓展编辑器。  
-[Jupyter Notebook](http://jupyter.org/)：置于浏览器中的轻量级编辑器，可编写LaTeX公式。
+[Jupyter Notebook](http://jupyter.org/)：置于浏览器中的轻量级编辑器，可编写LaTeX公式。  
 [Google Colab](https://colab.research.google.com/)：Google云上的基于Jupyter Notebook的在线IDE，其创立的主要目的是促进和方便机器学习的研究；可直接使用不需要配置，并可使用Google提供的免费CPU、GPU、TPU资源。（需要VPN）
 
 ## 库（library）、包（package）、模块（module）
