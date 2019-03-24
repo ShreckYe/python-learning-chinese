@@ -1,6 +1,6 @@
 # 中文Python学习指南
 
-*2019年3月18日更新*
+*2019年3月24日更新*
 
 本文是一个中文的Python学习向导，力图尽可能简洁全面地介绍Python学习从入门到进阶的各方面。
 
@@ -68,13 +68,12 @@ help(np.array)
 ## 学习方法
 ### 教程
 #### [SoloLearn](https://www.sololearn.com/)
-SoloLearn是一个在线学习编程的APP，有Android客户端、iOS客户端和网页版。  
-  
-SoloLearn有一个Python入门教程，以及一个关于Python常用的包NumPy的教程。使用网页版：[Python 3 Tutorial](https://www.sololearn.com/Course/Python/)。还可以在手机APP上，点击主页最左边的博士帽，查看所有可以学习的话题，包括Python 3和Python NumPy。
-
+SoloLearn是一个英文的在线学习编程的APP，是本文最为推荐的一个Python学习工具，其平台包含Android客户端、iOS客户端和网页版。  
+SoleLearn的[Python 3 Tutorial](https://www.sololearn.com/Course/Python/)是一个Python入门教程，由9个模块和92节课组成，每一节课小巧精炼、讲练结合，包含2~4个小页面，以讲解页面、练习页面循环重复的方式组成——讲解页面均包含介绍与示例，练习页面包含一道选择题或者填空题。
 ![SoloLearn Python 3 Tutorial](SoloLearn%20Python%203%20Tutorial.png)
-  
-SoloLearn还有一个Code Playground，无需安装任何环境，你就可以在线写一些简单的程序。你可以利用碎片时间在这里练习。
+
+SoloLearn的手机APP中有一个Code Playground，无需安装任何环境，你就可以在线写一些简单的程序。你可以利用碎片时间在这里练习。  
+除此之外，SoloLearn还有一个关于Python常用的包NumPy的教程：在手机APP上，点击主页最左边的博士帽，便可以查看所有可以学习的话题，包括Python 3和Python NumPy。
 
 #### [Python3 教程 | 菜鸟教程](http://www.runoob.com/python3/python3-tutorial.html)
 菜鸟教程是国内一个较好的编程基础入门教程网站，其Python教程分为Python 3基础教程和Python 3高级教程。其中Python 3基础教程内容较为完善适合初学者学习，也适合作为忘记特定功能写法时的参考；Python 3高级教程不需要专门学习，建议在需要使用到相关功能时结合实践学习。
