@@ -65,6 +65,21 @@ import numpy as np
 help(np.array)
 ```
 即可调出numpy模块中array（数组）的说明文档。
+### type函数
+使用type函数可以调出模块、类、函数、变量的类型，示例如下
+```
+>>> import numpy as np
+>>> type(np)
+<class 'module'>
+>>> type(np.array)
+<class 'builtin_function_or_method'>
+>>> l = [1, 2, 3]
+>>> type(l)
+<class 'list'>
+>>> a = np.array(l)
+>>> type(a)
+<class 'numpy.ndarray'>
+```
 ## 学习方法
 ### 教程
 #### [SoloLearn](https://www.sololearn.com/)
