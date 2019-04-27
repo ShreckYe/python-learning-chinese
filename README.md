@@ -18,6 +18,8 @@ IDE全称Integrated Develpment Envrionment即集成开发环境，是一类集�
 
 #### [PyCharm](https://www.jetbrains.com/pycharm/)
 本文推荐的Python IDE为JetBrains公司的PyCharm，这一IDE的优点在于它强大的代码补全、格式标准化、代码结构分析等功能。
+##### 解释器（Interpreter）配置
+在使用PyCharm第一次创建项目的时候，你需要为它项目指定解释器，在项目创建成功后也可以在“File - Settings - Project: ... - Project Interpreter”中修改。第一次指定解释器时需要添加一个新的解释器，在添加界面，本文建议初学者若使用官方Python环境则选择“System Interpreter”，若使用Conda则选择“Conda Environment”。
 #### 其他推荐IDE
 [Sublime Text](https://www.sublimetext.com/)：轻巧通用的可拓展编辑器。  
 [Jupyter Notebook](http://jupyter.org/)：置于浏览器中的轻量级编辑器，可编写LaTeX公式。  
