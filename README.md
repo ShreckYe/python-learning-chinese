@@ -1,6 +1,6 @@
 # 中文Python学习指南
 
-*2019年3月24日更新*
+*2019年5月5日更新*
 
 本文是一个中文的Python学习向导，力图尽可能简洁全面地介绍Python学习从入门到进阶的各方面。
 
@@ -81,6 +81,18 @@ help(np.array)
 >>> a = np.array(l)
 >>> type(a)
 <class 'numpy.ndarray'>
+```
+### dir函数
+使用dir函数可以以一个列表的方式输出一个空间下的所有名字，可以用它来输出一个包下的所有类、函数、变量的名字，也可以用它输出一个类或对象下的所有方法和属性的名字。
+```
+>>> import numpy as np
+>>> dir(np)
+['ALLOW_THREADS', 'AxisError', ..., 'zeros_like']
+>>> dir(np.array)
+['__call__', '__class__', '__delattr__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__name__', '__ne__', '__new__', '__qualname__', '__reduce__', '__reduce_ex__', '__repr__', '__self__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__text_signature__']
+>>> a = np.array
+>>> dir(a)
+['__call__', '__class__', '__delattr__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__name__', '__ne__', '__new__', '__qualname__', '__reduce__', '__reduce_ex__', '__repr__', '__self__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__text_signature__']
 ```
 ## 学习方法
 ### 教程
