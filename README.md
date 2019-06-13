@@ -1,6 +1,6 @@
 # 中文Python学习指南
 
-*2019年5月5日更新*
+*2019年6月13日更新*
 
 本文是一个中文的Python学习向导，力图尽可能简洁全面地介绍Python学习从入门到进阶的各方面。
 
@@ -122,3 +122,5 @@ SoloLearn的手机APP中有一个Code Playground，无需安装任何环境，�
 #### [LeetCode](https://leetcode.com/)
 在这里向大家推荐一个编程练习网站LeetCode。  
 注册账号并登陆后，在“Problems”一栏中便可看到此网站提供的所有问题，打开其中一个，在语言栏中选择“Python”或“Python 3”，填写代码，点击“Submit Solution”即可提交，系统会自动检查你的代码是否正确。在正确完成大概10道题之后，你就能基本熟练掌握编程的基本操作。
+
+本文挑选了一些[适合初学者的LeetCode问题](leetcode/questions-for-beginners.md)，大家可以从这些问题入门逐渐提高自己的编程技巧。
