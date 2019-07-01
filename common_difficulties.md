@@ -60,7 +60,7 @@ def bool_to_int(b):
 
 ```
 
-### 第五章（More Types）
+## 第五章（More Types）
 第五章的类型均对应特定的数据结构，若想要根据目的合理选择一个数据类型，则需要了解一些基础的数据结构知识。
 
 这些类型的对应如下，你通过互联网学习这些数据结构的基础知识。。
@@ -73,5 +73,5 @@ Python类型 | Python官方名字 | 数据结构
 `set` | set (集合) | 哈希表
 `str` | string (字符串) | 列表/数组
 
-### 第六章（Functional Programming）
+## 第六章（Functional Programming）
 函数式编程是使用Python语言写出更简洁程序的重要工具，在数据处理相关工作中使用尤其频繁。
