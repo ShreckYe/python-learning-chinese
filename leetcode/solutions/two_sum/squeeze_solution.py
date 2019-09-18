@@ -2,7 +2,7 @@
 Author: Shreck Ye
 Date: June 8, 2019
 
-Time complexity: O(n)
+Time complexity: O(n log(n))
 """
 
 from typing import List
